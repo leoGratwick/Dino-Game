@@ -1,0 +1,6 @@
+https://arks.itch.io/dino-characters
+https://www.spriters-resource.com/
+https://opengameart.org/content/2d-tiles-0
+https://www.pygame.org/docs/ref/time.html
+https://ezgif.com/sprite-cutter
+https://www.rapidtables.com/web/color/RGB_Color.html#color-picker
